@@ -1,0 +1,23 @@
+{
+  "name": "paymentpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "cleave.js": "^1.6.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.17",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}

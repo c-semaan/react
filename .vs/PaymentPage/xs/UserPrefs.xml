@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{74732A8B-CCC3-4E1A-87F9-3417C023A30A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="payment_react/src/App.js">
+    <Files>
+      <File FileName="payment_react/src/App.js" Line="98" Column="1" />
+      <File FileName=".env" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="PaymentPage" expanded="True">
+            <Node name="PaymentPage" expanded="True">
+              <Node name="models" expanded="True">
+                <Node name="Post.js" selected="True" />
+              </Node>
+              <Node name="routes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.ItemProperties.PaymentPage FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
