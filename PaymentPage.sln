@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.808.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "PaymentPage", "PaymentPage.mdproj", "{74732A8B-CCC3-4E1A-87F9-3417C023A30A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58D3FE34-AB88-42F0-8E6C-D048EB874740}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile = Jenkinsfile
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Any CPU = Default|Any CPU
