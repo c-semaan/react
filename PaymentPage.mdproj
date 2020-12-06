@@ -16,6 +16,7 @@
     <None Include="server.js" />
     <None Include="routes\posts.js" />
     <None Include="models\Post.js" />
+    <None Include="Jenkinsfile" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="routes\" />
